@@ -1,1 +1,1 @@
-Developed a user-friendly mobile application that empowers old age home authorities to manage and communicate their specific needs. The app enables authorities to update and delete requirements as they are fulfilled, ensuring accurate and up-to date information.
+A user-friendly mobile application that empowers old age home authorities to manage and communicate their specific needs. The app enables authorities to update and delete requirements as they are fulfilled, ensuring accurate and up-to date information.
